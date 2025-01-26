@@ -15,17 +15,7 @@
 
 | **이신정** | **윤민지** | **안규리** | **유정훈** | **정세희** |
 | :------: | :------: | :------: | :------: | :------: |
-| [<img src="https://avatars.githubusercontent.com/u/99483558?s=96&v=4" height="80" width="80"> <br/> @이신정]() |
-[<img src="https://avatars.githubusercontent.com/u/100835168?s=96&v=4" height="80" width="80"> <br/> @Ori-Gui](https://github.com/Ori-Gui)
-|
-[<img src="https://avatars.githubusercontent.com/u/111040042?s=96&v=4" height="80" width="80"> <br/> @yeonicy](https://github.com/yeonicy)
-|
-[<img src="https://avatars.githubusercontent.com/u/125079725?s=96&v=4" height="80" width="80"> <br/> @00yuhyun](https://github.com/00yuhyun)
-|
-[<img src="https://avatars.githubusercontent.com/u/54736876?s=96&v=4" height="80" width="80"> <br/> @Sauter001](https://github.com/Sauter001)
-|
-[<img src="https://avatars.githubusercontent.com/u/69998481?s=96&v=4" height="80" width="80"> <br/> @choeunlee](https://github.com/choeunlee)
-|
+| [<img src="https://avatars.githubusercontent.com/u/99483558?s=96&v=4" height="80" width="80"> <br/> @이신정]() | [<img src="https://avatars.githubusercontent.com/u/100835168?s=96&v=4" height="80" width="80"> <br/> @Ori-Gui](https://github.com/Ori-Gui) | [<img src="https://avatars.githubusercontent.com/u/111040042?s=96&v=4" height="80" width="80"> <br/> @yeonicy](https://github.com/yeonicy) | [<img src="https://avatars.githubusercontent.com/u/125079725?s=96&v=4" height="80" width="80"> <br/> @00yuhyun](https://github.com/00yuhyun) | [<img src="https://avatars.githubusercontent.com/u/54736876?s=96&v=4" height="80" width="80"> <br/> @Sauter001](https://github.com/Sauter001) | [<img src="https://avatars.githubusercontent.com/u/69998481?s=96&v=4" height="80" width="80"> <br/> @choeunlee](https://github.com/choeunlee) |
 
 </div>
 
