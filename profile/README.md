@@ -15,9 +15,7 @@
 
 | **이신정** | **윤민지** | **안규리** | **유정훈** | **정세희** |
 | :------: | :------: | :------: | :------: | :------: |
-| 
-[<img src="https://avatars.githubusercontent.com/u/99483558?s=96&v=4" height="80" width="80"> <br/> @이신정]()
-|
+| [<img src="https://avatars.githubusercontent.com/u/99483558?s=96&v=4" height="80" width="80"> <br/> @이신정]() |
 [<img src="https://avatars.githubusercontent.com/u/100835168?s=96&v=4" height="80" width="80"> <br/> @Ori-Gui](https://github.com/Ori-Gui)
 |
 [<img src="https://avatars.githubusercontent.com/u/111040042?s=96&v=4" height="80" width="80"> <br/> @yeonicy](https://github.com/yeonicy)
